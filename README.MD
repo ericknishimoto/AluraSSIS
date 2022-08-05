@@ -1,4 +1,4 @@
-# Projeto do curso de "ETL com Integration Services: modelo de dados" da Alura
+# Projeto do curso "ETL com Integration Services: modelo de dados" da Alura
 
 > Criamos um "mini" DW, utilizando o SQL Server 2019 e o Microsoft SQL Server Management Studio 18 para criação de tabelas dimensão e fato, e o relacionamento entre elas. Para carga de dados criamos um projeto no Visual Studio 2019, utilizando o Data Tools + extensão do SQL Server Integration Services Projects.
 
