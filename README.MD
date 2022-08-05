@@ -1,8 +1,11 @@
 # Projeto de SSIS criado no curso de ETL com Integration Services: modelo de dados da Alura
 
-Faça esse curso de Business Intelligence e:
-Construa um sistema de Data Warehouse
-Use os Microsoft SQL Server Data Tools
-Entenda o processo de ETL
-Carregue dados na dimensão e use as tabelas de fatos
-Use o SQL Server, SQL Server Manager Studio e Data Tools
+AULAS:
+- Entendendo o nosso problema
+- Instalando os produtos
+- O projeto do Data Warehouse
+- As dimensões fábrica, cliente e produto
+- Dimensões organizacional e tempo
+- As tabelas de fato
+- Carregando dados na dimensão
+*Foram feitas 51 de 51 atividades.
