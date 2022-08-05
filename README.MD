@@ -9,3 +9,5 @@ AULAS:
 - As tabelas de fato
 - Carregando dados na dimensão
 *Foram feitas 51 de 51 atividades.
+
+![Capturar](https://user-images.githubusercontent.com/25754870/183065634-7e882ebd-3e0b-41b9-ba89-e3ad35c675c1.PNG)
