@@ -23,7 +23,7 @@ Criação de um DW utilizando conceitos de Modelagem Dimensional (Star Schema e 
  ![DW](https://user-images.githubusercontent.com/25754870/183221637-a52d559e-0710-42a6-a480-4761447f7cf3.PNG)
  *Diagrama do banco de dados utilizado para o Datawarehouse*
 
-- **ETL (Extract, Trannsform, Load)**
+- **ETL (Extract, Transform, Load)**
   - Extração de dados de Planilhas, Flat files (csv,txt) e SQL Server;
   - Traformação de dados, conversão de tipo de dados, remoção de linhas duplicadas, funções de tratamento de texto, junção de datasets; 
   - Carga em banco de dados SQL Server,  SDC tipo1 (Slowly changing dimension);
