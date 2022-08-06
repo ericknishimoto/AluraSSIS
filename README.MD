@@ -33,7 +33,7 @@ Criação de um DW utilizando conceitos de Modelagem Dimensional (Star Schema e 
 
 - **Visual Studio**
   - Criação de projeto e pacotes;
-  - Utilização de parametrôs de pacote;
+  - Utilização de Parâmetros de pacote;
   - Criação e execução de pacotes.
   
 ![projeto_visual_studio](https://user-images.githubusercontent.com/25754870/183251202-91a5bfa7-8a49-4f42-8c93-af00e6026fdb.PNG)  
